@@ -1,0 +1,39 @@
+.animal.lion {
+    width: 125px;
+    height: 50px;
+    background-color: aqua;
+    font-size: 2em;
+    text-align: center;
+    padding: 2px;
+    margin: 5px;
+}
+
+.animal.dog {
+    width: 125px;
+    height: 50px;
+    background-color: aqua;
+    text-align: center;
+    font-size: 2em;
+    padding: 2px;
+    margin: 5px;
+}
+
+.animal.cougar {
+    width: 125px;
+    height: 50px;
+    background-color: aqua;
+    text-align: center;
+    font-size: 2em;
+    padding: 2px;
+    margin: 5px;
+}
+
+button {
+    width: 128px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 2em;
+    padding: 2px;
+    margin: 5px;
+}
